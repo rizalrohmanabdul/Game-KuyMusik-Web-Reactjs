@@ -1,5 +1,5 @@
 import axios from "axios";
-let URL = 'https://kuymusik.herokuapp.com';
+let URL = "http://192.168.100.42:3344";
 
 
 export const currentLogin = (data) => {

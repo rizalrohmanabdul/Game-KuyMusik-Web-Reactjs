@@ -1,5 +1,5 @@
 import axios from "axios";
-let URL = "https://kuymusik.herokuapp.com";
+let URL = 'https://kuymusik.herokuapp.com';
 
 export const patternALL = () => {
   return {
