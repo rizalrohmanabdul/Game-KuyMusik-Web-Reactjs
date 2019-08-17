@@ -33,7 +33,7 @@ class Login extends Component {
           title: "Login Gagal Username & Password Salah",
           icon: "warning"
         })
-          this.props.history.push(`/`);
+          this.props.history.push(`/pattern`);
       })
      
       
